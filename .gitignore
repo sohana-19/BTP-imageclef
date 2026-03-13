@@ -1,0 +1,26 @@
+# datasets
+ROCov2/
+
+# embeddings
+*.npy
+
+# images
+*.jpg
+*.png
+
+# archives
+*.zip
+
+# logs
+*.log
+
+# python cache
+__pycache__/
+*.pyc
+
+# cluster output
+output_*.log
+error_*.log
+
+# tokens
+token*.txt
